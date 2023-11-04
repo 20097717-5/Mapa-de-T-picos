@@ -1,2 +1,2 @@
 # Mapa-de-T-picos
-MAPA de Tópicos Especiais em Engenharia de Software
+Segundo o site Atlassian, em seu artigo intitulado Estratégia de Ramificação Explicada (2023), define que “a ramificação permite que equipes de desenvolvedores colaborem com facilidade dentro de uma base de código central”. E acrescenta que “quando um desenvolvedor cria uma ramificação, o sistema de controle de versão cria uma cópia da base de código nesse ponto no tempo. As alterações na ramificação não afetam outros desenvolvedores da equipe”. E destaca, ainda, que é um lado bom, “porque recursos em desenvolvimento podem criar instabilidade, e seria muito perturbador se todo o trabalho acontecesse na linha de código principal”. 
